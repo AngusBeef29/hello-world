@@ -1,2 +1,3 @@
-# hello-world
-The most elemental cog of the coding machine
+I've done it, I've hacked the mainframe.
+
+Hello, world.
